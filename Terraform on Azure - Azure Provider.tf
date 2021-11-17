@@ -1,4 +1,4 @@
-Ref: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#authenticating-to-azure
+#Ref: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs#authenticating-to-azure
 
 Example Usage example:
 
